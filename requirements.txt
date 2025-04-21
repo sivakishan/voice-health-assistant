@@ -1,0 +1,9 @@
+streamlit
+opperai
+pydantic
+speechrecognition
+pyttsx3
+pandas
+openpyxl
+twilio
+python-dotenv
