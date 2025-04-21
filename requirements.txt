@@ -7,3 +7,4 @@ pandas
 openpyxl
 twilio
 python-dotenv
+requests
