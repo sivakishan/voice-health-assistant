@@ -17,3 +17,5 @@ def speak(text):
     engine.setProperty('volume', 1.0)
     engine.say(text)
     engine.runAndWait()
+
+
