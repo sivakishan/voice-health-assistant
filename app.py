@@ -1,7 +1,7 @@
 from opperai import Opper
 from pydantic import BaseModel, Field
 
-opper = Opper()
+opper = Opper("op-V3Y6984YRFKM0X9EAYRL")
 
 class ResponseModel(BaseModel):
     reply: str = Field(description="Assistant's response")
